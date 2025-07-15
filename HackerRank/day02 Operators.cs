@@ -44,3 +44,8 @@ class Solution02
         Result.solve(meal_cost, tip_percent, tax_percent);
     }
 }
+
+
+// 12.00
+// 20
+// 8

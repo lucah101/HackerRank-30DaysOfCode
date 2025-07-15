@@ -26,3 +26,4 @@
 /Volumes/SSD/HackerRank-30DaysOfCode/HackerRank/obj/Debug/net9.0/HackerRank.pdb
 /Volumes/SSD/HackerRank-30DaysOfCode/HackerRank/obj/Debug/net9.0/HackerRank.genruntimeconfig.cache
 /Volumes/SSD/HackerRank-30DaysOfCode/HackerRank/obj/Debug/net9.0/ref/HackerRank.dll
+/Volumes/SSD/HackerRank-30DaysOfCode/HackerRank/obj/Debug/net9.0/HackerRank.sourcelink.json
