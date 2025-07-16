@@ -40,7 +40,7 @@ class Solution09
 {
     public static void day09(string[] args)
     {
-        int n = Convert.ToInt32(Console.ReadLine().Trim());
+        int n = Convert.ToInt32(Console.ReadLine()?.Trim());
 
         int result = Result09.factorial(n);
 
