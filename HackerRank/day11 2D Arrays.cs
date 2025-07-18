@@ -16,7 +16,7 @@ using System;
 
 class Solution11
 {
-    public static void day11(string[] args)
+    public static void Day11(string[] args)
     {
         int[,] arr = new int[6, 6];
 
@@ -48,3 +48,11 @@ class Solution11
         Console.WriteLine(maxSum);
     }
 }
+
+
+// 1 1 1 0 0 0
+// 0 1 0 0 0 0
+// 1 1 1 0 0 0
+// 0 0 2 4 4 0
+// 0 0 0 2 0 0
+// 0 0 1 2 4 0

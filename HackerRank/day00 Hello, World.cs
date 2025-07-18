@@ -20,3 +20,6 @@ class Solution00
 
     }
 }
+
+
+//dotnet run --project HackerRank
